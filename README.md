@@ -8,12 +8,14 @@
   </a>
 </h1>
 
-<!-- 个人账号平台 -->
-<h5 align="center">
-  <code><a href="https://gitee.com/QingmPei" title="gitee"><img width="22" src="images/gitee.svg"> Gitee</a></code>
-  <code><a href="https://www.instagram.com/qingmpei/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
+<div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+</div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center">
@@ -32,6 +34,13 @@
   <br>
   📫 How to reach me: <a href="mailto: qingmengfengyun@gmail.com">qingmengfengyun@gmail.com</a>
 </p>
+
+<!-- 个人账号平台 -->
+<h5 align="center">
+  <code><a href="https://gitee.com/QingmPei" title="gitee"><img width="22" src="images/gitee.svg"> Gitee</a></code>
+  <code><a href="https://www.instagram.com/qingmpei/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 
 <!-- 常用语言和工具 -->
 <hr>
