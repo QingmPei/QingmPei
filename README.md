@@ -16,7 +16,7 @@
 -->
 
 <h5 align="center">
-  <code><a href="https://gitee.com/QingmPei" title="gitee"><img width="22" src="images/gitee.svg"> Instagram</a></code>
+  <code><a href="https://gitee.com/QingmPei" title="gitee"><img width="22" src="images/gitee.svg"> Gitee</a></code>
   <code><a href="https://www.instagram.com/qingmpei/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
