@@ -16,7 +16,7 @@
 <br>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -109,6 +109,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <!--  skill badge 技能徽章 -->
+<div align="center">
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -142,6 +143,9 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+</div>
+
+<!-- 显示更多 -->
 <h2 align="center">
   <a href="https://github.com/QingmPei?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h2>
