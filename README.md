@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+QingmPei....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+QingmPei;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -16,7 +16,7 @@
 -->
 
 <h5 align="center">
-
+  <code><a href="https://gitee.com/QingmPei" title="gitee"><img width="22" src="images/gitee.svg"> Instagram</a></code>
   <code><a href="https://www.instagram.com/qingmpei/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
